@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mybiits_spring_end:war">
+    <output-path>$PROJECT_DIR$/mybiits_spring_end/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>mybiits_spring_end</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="mybiits_spring_end.war">
+      <element id="artifact" artifact-name="mybiits_spring_end:war exploded" />
+    </root>
+  </artifact>
+</component>

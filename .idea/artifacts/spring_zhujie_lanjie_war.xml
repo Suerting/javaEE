@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring_zhujie_lanjie:war">
+    <output-path>$PROJECT_DIR$/spring_zhujie_lanjie/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>spring_zhujie_lanjie</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="spring_zhujie_lanjie.war">
+      <element id="artifact" artifact-name="spring_zhujie_lanjie:war exploded" />
+    </root>
+  </artifact>
+</component>

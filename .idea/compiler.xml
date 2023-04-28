@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring_zhujie_lanjie" />
+        <module name="lianxi8_file" />
+        <module name="spring_lanjieqi1" />
+        <module name="spring_mvc_login" />
+        <module name="lan" />
+        <module name="mybaties_1" />
+        <module name="spring_response_file" />
+        <module name="spring_sql_login" />
+        <module name="mybiits_spring_end" />
+        <module name="mybatis_spring" />
+        <module name="springmvc01" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="errs" target="1.7" />
+      <module name="lan" target="1.7" />
+      <module name="lanjieqi1" target="11" />
+      <module name="lianxi8_file" target="1.7" />
+      <module name="lj" target="11" />
+      <module name="ljj" target="1.7" />
+      <module name="mybaties_1" target="1.7" />
+      <module name="mybatis_spring" target="1.7" />
+      <module name="mybiits_spring_end" target="1.7" />
+      <module name="mybits_ spring" target="1.7" />
+      <module name="mybits_spring_end" target="11" />
+      <module name="sping_sql" target="1.7" />
+      <module name="spring_lanjieqi" target="1.7" />
+      <module name="spring_lanjieqi1" target="1.7" />
+      <module name="spring_mvc_login" target="1.7" />
+      <module name="spring_response_file" target="1.7" />
+      <module name="spring_sql_login" target="1.7" />
+      <module name="spring_zhujie_lanjie" target="1.7" />
+      <module name="springmvc01" target="11" />
+      <module name="springmvc02" target="1.7" />
+      <module name="springmvc03" target="11" />
+      <module name="springmvc04" target="1.7" />
+      <module name="springmvc_05_webinf" target="1.8" />
+      <module name="ssm_lanjie_zhujie" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

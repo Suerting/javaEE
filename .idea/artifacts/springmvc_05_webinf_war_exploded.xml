@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="springmvc_05_webinf:war exploded">
+    <output-path>E:/other/qqFile/springmvc_05_webinf/target/springmvc_05_webinf</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>springmvc_05_webinf</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="springmvc_05_webinf" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="E:/other/qqFile/springmvc_05_webinf/target/springmvc_05_webinf/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="springmvc_05_webinf/web/Web" />
+    </root>
+  </artifact>
+</component>

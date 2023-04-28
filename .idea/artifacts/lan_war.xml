@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lan:war">
+    <output-path>$PROJECT_DIR$/lan/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>lan</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="lan.war">
+      <element id="artifact" artifact-name="lan:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.edu.cqwu.mapper.SetMapper">
+    <select id="selectStudent" resultType="cn.edu.cqwu.pojo.Student">
+        select * from student where id=#{id}
+    </select>
+<!--    resultType与配置文件的alias一样-->
+    <select id="selectAllStudent" resultType="Student">
+        select * from student
+    </select>
+    <insert id="insertStudent">
+        insert into student values(#{id},#{name},#{sno},#{major})
+    </insert>
+    <update id="updateStudent" >
+        update student set major=#{major} where id=#{id}
+    </update>
+    <delete id="deleteStudent">
+        delete from student where id=#{id}
+    </delete>
+</mapper>
+
+
+
+
+
+
+

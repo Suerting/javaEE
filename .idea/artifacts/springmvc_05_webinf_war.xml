@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springmvc_05_webinf:war">
+    <output-path>E:/other/qqFile/springmvc_05_webinf/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>springmvc_05_webinf</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="springmvc_05_webinf.war">
+      <element id="artifact" artifact-name="springmvc_05_webinf:war exploded" />
+    </root>
+  </artifact>
+</component>

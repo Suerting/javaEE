@@ -1,0 +1,6 @@
+cn\edu\cqwu\pojo\User.class
+cn\edu\cqwu\pojo\Book.class
+cn\edu\cqwu\intercepter\SetIntercepter.class
+cn\edu\cqwu\mapper\SetMapper.class
+cn\edu\cqwu\biz\impl\SetBizImpl.class
+cn\edu\cqwu\biz\SetBiz.class

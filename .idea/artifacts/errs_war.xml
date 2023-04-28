@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="errs:war">
+    <output-path>$PROJECT_DIR$/../../java web/实训/实训代码/errs/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>errs</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="errs.war">
+      <element id="artifact" artifact-name="errs:war exploded" />
+    </root>
+  </artifact>
+</component>

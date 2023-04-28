@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:mvc="http://www.springframework.org/schema/mvc"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans.xsd
+	http://www.springframework.org/schema/aop
+	http://www.springframework.org/schema/aop/spring-aop.xsd
+	http://www.springframework.org/schema/context
+	http://www.springframework.org/schema/context/spring-context.xsd
+	http://www.springframework.org/schema/mvc
+	http://www.springframework.org/schema/mvc/spring-mvc.xsd
+	">
+    <!-- spring mvc配置文件，是spring子容器 -->
+
+
+    <!-- 扫描 -->
+    <context:component-scan base-package="cn.edu.cqwu.controller"></context:component-scan>
+
+    <!-- 指定静态资源 -->
+    <!-- **是js所有子目录都不需要经过前端工作器，都作为静态资源过滤处理 -->
+    <mvc:resources location="/js/" mapping="/js/**"></mvc:resources>
+    <!-- 使控制器起作用 -->
+    <mvc:annotation-driven></mvc:annotation-driven>
+
+
+    <!-- 内部资源视图解析器 -->
+    <!-- 解决jsp路径问题 -->
+    <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+        <!-- 前缀 -->
+        <property name="prefix" value="/WEB-INF/jsp/"></property>
+        <!-- 后缀 -->
+        <property name="suffix" value=".jsp"></property>
+    </bean>
+
+<!--    文件上传解析器-->
+    <bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+<!--        编码-->
+        <property name="defaultEncoding" value="UTF-8"></property>
+<!--        文件上传大小-->
+<!--        <property name="maxUploadSize" value="1000000"></property>-->
+    </bean>
+</beans>

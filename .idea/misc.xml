@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../../java web/实训/实训代码/errs" />
+    <file type="web" url="file://$PROJECT_DIR$/lan" />
+    <file type="web" url="file://$PROJECT_DIR$/lianxi8_file" />
+    <file type="web" url="file://$PROJECT_DIR$/ljj" />
+    <file type="web" url="file://$PROJECT_DIR$/mybaties_1" />
+    <file type="web" url="file://$PROJECT_DIR$/mybatis_spring" />
+    <file type="web" url="file://$PROJECT_DIR$/mybiits_spring_end" />
+    <file type="web" url="file://$PROJECT_DIR$/mybits_spring" />
+    <file type="web" url="file://$PROJECT_DIR$/sping_sql" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_lanjieqi" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_lanjieqi1" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_mvc_login" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_response_file" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_sql_login" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_zhujie_lanjie" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc04" />
+    <file type="web" url="file://$PROJECT_DIR$/../springmvc02" />
+    <file type="web" url="file://E:/other/qqFile/springmvc_05_webinf" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springmvc01/pom.xml" />
+        <option value="$PROJECT_DIR$/../springmvc02/pom.xml" />
+        <option value="$PROJECT_DIR$/../springmvc03/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_response_file/pom.xml" />
+        <option value="$PROJECT_DIR$/lianxi8_file/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_lanjieqi/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_lanjieqi1/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_mvc_login/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_sql_login/pom.xml" />
+        <option value="$PROJECT_DIR$/mybaties_1/pom.xml" />
+        <option value="$PROJECT_DIR$/../../java web/实训/实训代码/errs/pom.xml" />
+        <option value="$PROJECT_DIR$/mybits_ spring/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis_spring/pom.xml" />
+        <option value="$PROJECT_DIR$/mybiits_spring_end/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_zhujie_lanjie/pom.xml" />
+        <option value="$PROJECT_DIR$/ljj/pom.xml" />
+        <option value="$PROJECT_DIR$/lan/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

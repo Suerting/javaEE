@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lianxi8_file:war">
+    <output-path>$PROJECT_DIR$/lianxi8_file/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>lianxi8_file</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="lianxi8_file.war">
+      <element id="artifact" artifact-name="lianxi8_file:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lan/lan.iml" filepath="$PROJECT_DIR$/lan/lan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lianxi8_file/lianxi8_file.iml" filepath="$PROJECT_DIR$/lianxi8_file/lianxi8_file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybaties_1/mybaties_1.iml" filepath="$PROJECT_DIR$/mybaties_1/mybaties_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis_spring/mybatis_spring.iml" filepath="$PROJECT_DIR$/mybatis_spring/mybatis_spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybiits_spring_end/mybiits_spring_end.iml" filepath="$PROJECT_DIR$/mybiits_spring_end/mybiits_spring_end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_lanjieqi1/spring_lanjieqi1.iml" filepath="$PROJECT_DIR$/spring_lanjieqi1/spring_lanjieqi1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_mvc_login/spring_mvc_login.iml" filepath="$PROJECT_DIR$/spring_mvc_login/spring_mvc_login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_response_file/spring_response_file.iml" filepath="$PROJECT_DIR$/spring_response_file/spring_response_file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_sql_login/spring_sql_login.iml" filepath="$PROJECT_DIR$/spring_sql_login/spring_sql_login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_zhujie_lanjie/spring_zhujie_lanjie.iml" filepath="$PROJECT_DIR$/spring_zhujie_lanjie/spring_zhujie_lanjie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc01/springmvc01.iml" filepath="$PROJECT_DIR$/springmvc01/springmvc01.iml" />
+    </modules>
+  </component>
+</project>

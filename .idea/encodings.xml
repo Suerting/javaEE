@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/lan/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lan/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lianxi8_file/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lianxi8_file/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybaties_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybaties_1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis_spring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis_spring/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybiits_spring_end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybiits_spring_end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_lanjieqi1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_lanjieqi1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_mvc_login/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_mvc_login/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_response_file/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_response_file/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_sql_login/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_sql_login/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_zhujie_lanjie/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_zhujie_lanjie/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
